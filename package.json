@@ -1,0 +1,56 @@
+{
+	"name": "01thcbin-laravel",
+	"displayName": "01THCBin Laravel",
+	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
+	"version": "1.0.0",
+	"publisher": "thcbin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thcbin/laravel-extension-pack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f66f62",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"laravel",
+		"blade",
+		"php",
+		"snippet"
+	],
+	"extensionPack": [
+	    "ms-vsliveshare.vsliveshare", 
+        "bradlc.vscode-tailwindcss", 
+        "rexshi.phpdoc-comment-vscode-plugin", 
+        "MehediDracula.php-namespace-resolver", 
+        "bmewburn.vscode-intelephense-client", 
+        "felixfbecker.php-debug", 
+        "cierra.livewire-vscode", 
+        "lakuapik.livewire-goto", 
+        "stef-k.laravel-goto-controller", 
+        "onecentlin.laravel5-snippets", 
+        "codingyu.laravel-goto-view", 
+        "ctf0.laravel-goto-env", 
+        "ctf0.laravel-goto-config", 
+        "onecentlin.laravel-blade", 
+        "shufo.vscode-blade-formatter", 
+        "tiansin.vscode-laravel-assist", 
+        "ryannaddy.laravel-artisan", 
+        "xabikos.JavaScriptSnippets",
+        "rifi2k.format-html-in-php", 
+        "EditorConfig.EditorConfig", 
+        "mikestead.dotenv", 
+        "pranaygp.vscode-css-peek", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.auto-close-tag",
+		"amiralizadeh9480.laravel-extra-intellisense"
+	]
+
+}
