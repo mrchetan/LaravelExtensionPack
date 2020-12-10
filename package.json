@@ -26,7 +26,6 @@
 		"snippet"
 	],
 	"extensionPack": [
-	    "ms-vsliveshare.vsliveshare", 
         "bradlc.vscode-tailwindcss", 
         "rexshi.phpdoc-comment-vscode-plugin", 
         "MehediDracula.php-namespace-resolver", 
