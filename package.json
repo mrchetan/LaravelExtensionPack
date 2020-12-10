@@ -6,7 +6,7 @@
 	"publisher": "thcbin",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thcbin/laravel-extension-pack"
+		"url": "https://github.com/techthatmatters/01thcbin-laravel-1.0.0"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
@@ -26,6 +26,7 @@
 		"snippet"
 	],
 	"extensionPack": [
+		"mohamedbenhida.laravel-intellisense",
         "bradlc.vscode-tailwindcss", 
         "rexshi.phpdoc-comment-vscode-plugin", 
         "MehediDracula.php-namespace-resolver", 
@@ -46,9 +47,6 @@
         "rifi2k.format-html-in-php", 
         "EditorConfig.EditorConfig", 
         "mikestead.dotenv", 
-        "pranaygp.vscode-css-peek", 
-        "formulahendry.auto-rename-tag", 
-        "formulahendry.auto-close-tag",
 		"amiralizadeh9480.laravel-extra-intellisense"
 	]
 
