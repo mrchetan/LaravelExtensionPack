@@ -28,10 +28,8 @@ A collection of extensions for Laravel development by Chetan Bhalothia
 * `php artisan migrate` 
 * `php artisan serve`
 * `php artisan config:cache`
-* `php artisan make:controller <ControllerName> -r` Example : php artisan make:controller Users -r  
-*__-r is used to add a resource controller__*
-* `php artisan make:model <ModelName> -m` Example : php artisan make:model User -m
-*__-m is used to create a migratioin__*
+* `php artisan make:controller <ControllerName> -r` Example : php artisan make:controller Users -r  <br> *__-r is used to add a resource controller__*
+* `php artisan make:model <ModelName> -m` Example : php artisan make:model User -m <br>*__-m is used to create a migratioin__*
 * `php artisan make:migration <MigrationFileName> --table=<tableName>` Example : php artisan make:migration add_booing_date_field_bookings --table=bookings
 * `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin 
 * `php artisan make:mail <mailName> -m emails.<mailFileName>` Example : php artisan make:mail Enquiry -m emails.enquiry
