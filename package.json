@@ -2,11 +2,11 @@
 	"name": "01thcbin-laravel",
 	"displayName": "01 THCBin Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/01thcbin-laravel-1.0.0"
+		"url": "https://github.com/techthatmatters/01thcbin-laravel"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
