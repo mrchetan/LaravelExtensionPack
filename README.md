@@ -7,6 +7,7 @@ A collection of extensions for Laravel development by Chetan Bhalothia
 * [Laragon](https://laragon.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Composer](https://getcomposer.org/)
+* [Postman](https://www.postman.com/) for API Testing
 ## For more information
 
 * [Read Laravel Documentation](https://laravel.com/docs)
