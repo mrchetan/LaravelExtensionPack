@@ -3,7 +3,7 @@
 	"displayName": "01THCBin Laravel",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
 	"version": "1.0.0",
-	"publisher": "thcbin",
+	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/techthatmatters/01thcbin-laravel-1.0.0"
