@@ -2,7 +2,7 @@
 	"name": "01thcbin-laravel",
 	"displayName": "01 THCBin Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -36,6 +36,7 @@
         "shufo.vscode-blade-formatter", 
         "onecentlin.laravel-blade", 
         "lakuapik.livewire-goto", 
+        "geyao.html-snippets", 
         "ctf0.laravel-goto-config", 
         "ctf0.laravel-goto-env", 
         "codingyu.laravel-goto-view", 
