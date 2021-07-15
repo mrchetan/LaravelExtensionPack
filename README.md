@@ -9,6 +9,8 @@ VS Code extension pack help to create a your Laravel app.
 
 This extension pack includes the following extensions:
 
+* [Alpine.js IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) - Simple IntelliSense & Snippets for Alpine.js framework.
+
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
@@ -41,9 +43,14 @@ This extension pack includes the following extensions:
 
 * [laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) - Alt + click to navigate from a route to a respective controller file.
 
-* [Livewire Language Support](https://marketplace.visualstudio.com/items?itemName=cierra.livewire-vscode) - Snippets, Parameter Discovery, Syntax Highlighting and Formatting for Livewire.
+* [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get up and running with your Laravel Models
+
+* [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=m7md3omer.laravel-relationship-snippets) - laravel and php snippets for common functions and classes.
 
 * [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel snippets for Visual Studio Code (Support Laravel 5 and above).
+
+* [Livewire Language Support](https://marketplace.visualstudio.com/items?itemName=cierra.livewire-vscode) - Snippets, Parameter Discovery, Syntax Highlighting and Formatting for Livewire.
+
 
 * [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug support for PHP with XDebug.
 
@@ -52,6 +59,8 @@ This extension pack includes the following extensions:
 * [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) - PHP code intelligence for Visual Studio Code.
 
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
+
+* [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
 

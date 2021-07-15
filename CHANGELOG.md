@@ -17,3 +17,9 @@
 ## [1.0.5]
 
 - Add HTML Snippets Extension
+## [1.1.0]
+
+- Add Alpine.js IntelliSense Extension
+- Add PHP Sniffer Extension
+- Add Laravel Model Snippets Extension
+- Add Laravel Snippets Extension
