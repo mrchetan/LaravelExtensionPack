@@ -11,6 +11,8 @@ This extension pack includes the following extensions:
 
 * [Alpine.js IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) - Simple IntelliSense & Snippets for Alpine.js framework.
 
+* [Better PHPUnit](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit) - A better PHPUnit test runner
+
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
@@ -61,6 +63,9 @@ This extension pack includes the following extensions:
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
 
 * [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
+    
+    * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
+
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
 
