@@ -1,12 +1,12 @@
 {
-	"name": "01thcbin-laravel",
-	"displayName": "01 THCBin Laravel Extension Pack",
+	"name": "laravel",
+	"displayName": "01 Mr Chetan Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.1.1",
-	"publisher": "techthatmatters",
+	"version": "1.0.0",
+	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/01thcbin-laravel"
+		"url": "https://github.com/mrchetan/LaravelExtensionPack"
 	},
 	"engines": {
 		"vscode": "^1.26.0"

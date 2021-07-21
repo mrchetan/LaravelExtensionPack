@@ -1,6 +1,6 @@
-## Laravel development Extension Pack by Chetan Bhalothia
+## Laravel development Extension Pack by Mr Chetan
 
-A collection of extensions for Laravel development by Chetan Bhalothia
+A collection of extensions for Laravel development by Mr Chetan (Chetan Bhalothia).
 
 VS Code extension pack help to create a your Laravel app.
 
@@ -83,7 +83,7 @@ This extension pack includes the following extensions:
 * [Read Livewire Documentation](https://laravel-livewire.com/docs/)
 * [Read Tailwindcss Documentation](https://tailwindcss.com/docs)
 * [Read Laravel Jetstream Documentation](https://jetstream.laravel.com/)
-* [Contact THCBin](https://thcb.in/)
+* [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
 * `composer global require laravel/installer` 
