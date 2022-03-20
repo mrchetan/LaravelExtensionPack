@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.1]
+
+- Remove html-snippets extension
+
 ## [1.2.0]
 
 - Add Extension ```PhpStorm Parameter Hints in VScode```
