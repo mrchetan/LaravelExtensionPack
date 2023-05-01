@@ -13,6 +13,8 @@ This extension pack includes the following extensions:
 
 * [Better PHPUnit](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit) - A better PHPUnit test runner
 
+* [Composer Intelephense](https://marketplace.visualstudio.com/items?itemName=muath-ye.composer-Intelephense) - Intelephense for composer the PHP dependency manager.
+
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
