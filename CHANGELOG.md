@@ -1,4 +1,7 @@
 # Change Log
+## [1.4.1]
+
+- Add Extension `Env Symbol Provider`
 ## [1.4.0]
 
 - Add Extension `Composer Intelephense`
