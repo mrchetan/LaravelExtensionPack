@@ -35,7 +35,9 @@ This extension pack includes the following extensions:
 
 * [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support.
 
-* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) - Livewire goto vscode extension.
+* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) - Livewire goto vscode extension.
+
+* [Laravel Goto Components](https://marketplace.visualstudio.com/items?itemName=MrChetan.goto-laravel-components) - Laravel Goto Components is a Visual Studio Code extension that allows you to quickly jump to components in your Laravel project.
 
 * [Laravel Goto Config](https://marketplace.visualstudio.com/items?itemName=MrChetan.laravel-goto-config) - Quick jump to config in Laravel project.
 
@@ -65,7 +67,7 @@ This extension pack includes the following extensions:
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
 
 * [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
-    
+
     * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
 
 
@@ -90,22 +92,22 @@ This extension pack includes the following extensions:
 * [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
-* `composer global require laravel/installer` 
+* `composer global require laravel/installer`
 * `laravel new <AppName>` Example : laravel new chetan
-* `composer install` 
-* `npm install` 
-* `npm run dev` 
-* `npm run wathc` 
-* `npm run production` 
-* `php artisan storage:link` 
-* `php artisan key:generate` 
-* `php artisan migrate` 
+* `composer install`
+* `npm install`
+* `npm run dev`
+* `npm run wathc`
+* `npm run production`
+* `php artisan storage:link`
+* `php artisan key:generate`
+* `php artisan migrate`
 * `php artisan serve`
 * `php artisan config:cache`
 * `php artisan make:controller <ControllerName> -r` Example : php artisan make:controller Users -r  <br> *__-r is used to add a resource controller__*
 * `php artisan make:model <ModelName> -m` Example : php artisan make:model User -m <br>*__-m is used to create a migratioin__*
 * `php artisan make:migration <MigrationFileName> --table=<tableName>` Example : php artisan make:migration add_booing_date_field_bookings --table=bookings
-* `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin 
+* `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin
 * `php artisan make:mail <mailName> -m emails.<mailFileName>` Example : php artisan make:mail Enquiry -m emails.enquiry
 * `php artisan make:seeder <SeederName>` Example : php artisan make:seeder Settings
 * `laravel new v8 --jet --stack livewire --teams`

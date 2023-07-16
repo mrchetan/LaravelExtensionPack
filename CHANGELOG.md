@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.5.0]
+- Add Extension `Laravel Goto Components`
+
 ## [1.4.2]
 - Remove Extension `Laravel Assist`
 ## [1.4.1]
