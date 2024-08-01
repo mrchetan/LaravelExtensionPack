@@ -2,7 +2,7 @@
 	"name": "laravel",
 	"displayName": "01 Mr Chetan Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -33,7 +33,6 @@
 		"mikestead.dotenv",
 		"EditorConfig.EditorConfig",
 		"rifi2k.format-html-in-php",
-		"heybourn.headwind",
 		"xabikos.JavaScriptSnippets",
 		"ryannaddy.laravel-artisan",
 		"amiralizadeh9480.laravel-extra-intellisense",

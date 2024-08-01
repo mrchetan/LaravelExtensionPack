@@ -1,4 +1,6 @@
 # Change Log
+## [1.6.0]
+- Remove Extension `Headwind`
 
 ## [1.5.0]
 - Add Extension `Laravel Goto Components`
