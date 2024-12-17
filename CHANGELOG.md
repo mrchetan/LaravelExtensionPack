@@ -1,4 +1,9 @@
 # Change Log
+
+## [2.0.0]
+- Add Extension `Laravel Official Extension`
+- Remove Extension `Laravel Goto Config`, `Laravel Goto Env` and `Laravel goto view`
+
 ## [1.6.0]
 - Remove Extension `Headwind`
 
