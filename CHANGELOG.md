@@ -1,5 +1,8 @@
 # Change Log
 
+## [3.0.0]
+- Remove Extension `Laravel Goto Components`, `Livewire Goto`, `Livewire Language Support` and `laravel-goto-controller`
+
 ## [2.0.0]
 - Add Extension `Laravel Official Extension`
 - Remove Extension `Laravel Goto Config`, `Laravel Goto Env` and `Laravel goto view`
