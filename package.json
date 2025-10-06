@@ -2,7 +2,7 @@
 	"name": "laravel",
 	"displayName": "01 Mr Chetan Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "3.0.0",
+	"version": "3.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
