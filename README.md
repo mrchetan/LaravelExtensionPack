@@ -21,27 +21,16 @@ This extension pack includes the following extensions:
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 
-* [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Provides formatting for the HTML code in PHP files using JSbeautify - Works well paired with a PHP formatting extension.
-
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 
 * [Laravel](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) - Official VS Code extension for Laravel
 
 * [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Run Laravel Artisan commands within Visual Studio Code.
 
-* [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) - better intellisense for laravel projects.
 
 * [Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) - Laravel Blade formatter for VSCode.
 
 * [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support.
-
-* [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense) - Laravel intellisense for Visual Studio Code.
-
-* [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get up and running with your Laravel Models
-
-* [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=m7md3omer.laravel-relationship-snippets) - laravel and php snippets for common functions and classes.
-
-* [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel snippets for Visual Studio Code (Support Laravel 5 and above).
 
 * [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug support for PHP with XDebug.
 
@@ -51,7 +40,7 @@ This extension pack includes the following extensions:
 
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
 
-* [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
+* [Sniffer of PHP](https://marketplace.visualstudio.com/items?itemName=MrChetan.sniffer-of-php) - Uses PHP_CodeSniffer to format and lint PHP code.
 
     * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
 

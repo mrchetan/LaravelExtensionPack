@@ -2,14 +2,14 @@
 	"name": "laravel",
 	"displayName": "01 Mr Chetan Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "3.1.0",
+	"version": "4.0.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrchetan/LaravelExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.104.0"
+		"vscode": "^1.107.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -32,23 +32,15 @@
 		"ctf0.env-symbol-provider",
 		"mikestead.dotenv",
 		"EditorConfig.EditorConfig",
-		"rifi2k.format-html-in-php",
 		"xabikos.JavaScriptSnippets",
 		"laravel.vscode-laravel",
-		"ryannaddy.laravel-artisan",
-		"amiralizadeh9480.laravel-extra-intellisense",
 		"shufo.vscode-blade-formatter",
 		"onecentlin.laravel-blade",
-		"mohamedbenhida.laravel-intellisense",
-		"ahinkle.laravel-model-snippets",
-		"m7md3omer.laravel-relationship-snippets",
-		"onecentlin.laravel5-snippets",
 		"felixfbecker.php-debug",
 		"rexshi.phpdoc-comment-vscode-plugin",
 		"bmewburn.vscode-intelephense-client",
 		"MehediDracula.php-namespace-resolver",
-		"wongjn.php-sniffer",
-		"MrChetan.phpstorm-parameter-hints-in-vscode",
+		"mrchetan.sniffer-of-php",
 		"bradlc.vscode-tailwindcss"
 	]
 }
