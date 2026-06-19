@@ -1,6 +1,6 @@
 # Change Log
 
-## [3.2.0]
+## [4.0.0]
 - Update Extension engine
 - Remove Extension `PhpStorm Parameter Hints in VScode`, `Laravel Model Snippets`, `Format HTML in PHP`, `Laravel Artisan`, `laravel relationship snippets`, `Laravel Snippets`, `laravel intellisense` and `Laravel Extra Intellisense`
 - Relpace Extension `PHP Sniffer` with `Sniffer of PHP`
